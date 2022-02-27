@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'QuantizedCoMPwithPerAntennaConstraint '
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - given-names: Yunseong
+    family-names: Cho
+    email: yscho@utexas.edu
+    affiliation: The University of Texas at Austin
+  - given-names: Jinseok
+    family-names: Choi
+    email: jinseokchoi@unist.ac.kr
+    affiliation: >-
+      Ulsan National Institute of Science and
+      Technology (UNIST)
+  - given-names: Brian
+    family-names: Evans
+    email: bevans@ece.utexas.edu
+    affiliation: The University of Texas at Austin
